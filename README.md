@@ -123,8 +123,7 @@ your own text file.
 folder that contain these files and they will be saved there.
 
 
-CREDITS
-—————————————————
+CREDITS:
 Shuvaethy Neill, 101143478, Team Leader
     Work Submitted:
         - Green Channel Filter
@@ -162,8 +161,7 @@ Mahmoud Aldirawi, 101150112
         - Vertical Flipping Test Function
         
 
-LICENSE
-—————————————————
+LICENSE:
 Copyright (c) 2020 SFM Photo Editing
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
