@@ -1,22 +1,19 @@
 # Filter-Project
 It should be noted that the following was written for a school project. The software is not intended to be released.
-CONTACT INFORMATION
-—————————————————
+
+CONTACT INFORMATION: 
 Shuvaethy Neill, shuvaethyneill@cmail.carleton.ca
 
 
-DATE
-—————————————————
+DATE: 
 Tuesday, April 7 2020
 
 
-SOFTWARE NAME AND PRICING
-—————————————————
+SOFTWARE NAME AND PRICING: 
 SFM Photo Editing Version 1.0.0 - $6.99
 
 
-DESCRIPTION
-—————————————————
+DESCRIPTION:
 This photo editor will take any image of your choosing and allow you to apply a 
 variety of filters onto it. Image editing can be done using pre-defined 
 filters using the file-based interface, or it can be done live using the 
@@ -31,8 +28,7 @@ T109_user_interface.py
 T109_image_filters.py 
 
 
-INSTALLATION
-—————————————————
+INSTALLATION:
 The user must have the following installed on their device to run the photo edting code:
 
 - Python (version 3.7.3 or later - https://www.python.org/downloads/)
@@ -68,8 +64,7 @@ is ready to run either the file-based or text-based interface to start their
 photo editing. 
 
 
-USAGE
-—————————————————
+USAGE:
 Using this program is very simple. Follow these steps:
 
 1. Launch your programming environment (preferably Wing101):
