@@ -18,7 +18,7 @@ This photo editor will take any image of your choosing and allow you to apply a
 variety of filters onto it. Image editing can be done using pre-defined 
 filters using the file-based interface, or it can be done live using the 
 text-based interface which gives the user the ability to view their image after 
-each filter has been applied.The user can pass an image through nine filter 
+each filter has been applied. The user can pass an image through thirteen filter 
 functions offered. Upon satisfaction, the new filtered image is saved.
 
 This editing software is made up of the following files:
