@@ -124,41 +124,38 @@ folder that contain these files and they will be saved there.
 
 
 ## CREDITS
-Shuvaethy Neill, 101143478, Team Leader
-    Work Submitted:
-        - Green Channel Filter
-        - Combined Filter
-        - Channel Filters Combination 
-        - Extreme Contrast Test Function
-        - Posterized Filter
-        - Two Tone Filter
-        - Three Tone Filter
-        - Sepia Tinting Test Function
-        - Edge Detection Filter
-        - Improved Edge Detection Filter
-        - Horizontal Flipping Test Function
-        - Image Filters Combination
-        - Test Image Filters Combination
-        - Text-Based Interactive User Interface
+**Shuvaethy Neill, Team Leader**
+- Green Channel Filter
+- Combined Filter
+- Channel Filters Combination 
+- Extreme Contrast Test Function
+- Posterized Filter
+- Two Tone Filter
+- Three Tone Filter
+- Sepia Tinting Test Function
+- Edge Detection Filter
+- Improved Edge Detection Filter
+- Horizontal Flipping Test Function
+- Image Filters Combination
+- Test Image Filters Combination
+- Text-Based Interactive User Interface
         
-Francesca Siconolfi, 101148917
-    Work Submitted:
-        - Blue Channel Filter
-        - Sepia Tinting Filter
-	- Posterized Test Function
-        - Vertical Flipping Filter
-        - Edge Detection Test Function
-        - Improved Edge Detection Test Function
-        - File-Based Batch User Interface
+**Francesca Siconolfi, Team member**
+- Blue Channel Filter
+- Sepia Tinting Filter
+- Posterized Test Function
+- Vertical Flipping Filter
+- Edge Detection Test Function
+- Improved Edge Detection Test Function
+- File-Based Batch User Interface
 
-Mahmoud Aldirawi, 101150112
-    Work Submitted:
-        - Red Channel Filter
-        - Extreme Contrast Filter
-        - Horizontal Flipping Filter
-        - Two Tone Test Function
-        - Three Tone Test Function
-        - Vertical Flipping Test Function
+**Mahmoud Aldirawi, Team member**
+- Red Channel Filter
+- Extreme Contrast Filter
+- Horizontal Flipping Filter
+- Two Tone Test Function
+- Three Tone Test Function
+- Vertical Flipping Test Function
         
 
 ### LICENSE
